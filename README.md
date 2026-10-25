@@ -10,7 +10,7 @@ Connect Phantom, sign once, and every note lives in its own account on Solana De
 [![Next.js](https://img.shields.io/badge/Next.js-14-1c1d22?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-6b6e78?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 
-<img src="./public/screenshot-login.png" alt="Sign-in screen" width="49%"> <img src="./public/screenshot-dashboard.png" alt="Dashboard" width="49%">
+<img src="./public/screenshot-login.png" alt="Sign-in screen" width="49%"> 
 
 </div>
 
